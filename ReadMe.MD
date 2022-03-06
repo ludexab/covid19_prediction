@@ -1,0 +1,1 @@
+This is a predictive model designed to predict the covid19 status of a patient given his/her vital or relevant data has been collected as described in the dataset.
